@@ -1,0 +1,50 @@
+= Professionelle Softwareentwicklung: Praktische Übung 3
+:icons: font
+:icon-set: fa
+:source-highlighter: rouge
+:experimental:
+
+== Quellen 
+
+Einige der Beispiele sind verändert worden. 
+
+* Vorbereitungsaufgabe: https://github.com/mscoley169/CSC-143-SU15/tree/master/DebugNine2 
+* Montag: https://www.debuggingbook.org/html/Intro_Debugging.html
+* Dienstag - Donnerstag: Adam Barr: Find the bug : a book of incorrect programs 
+* Freitag: https://gist.githubusercontent.com/syxanash/b81b6d0e36e1e30f7494/raw/7e89476bde60da1a63343c6d8aef8cedd2811826/GOL.java (Basisprogramm ohne Fehler)
+* Gemeinsweeper: Anonyme Quelle
+
+== Vorbereitung 
+
+Die Vorbereitungsarbeiten müssen Sie *vor der praktischen Übung* abschließen. 
+
+Wir erwarten von Ihnen, dass Sie 
+
+* ein Headset o.ä. bereithalten. Testen Sie Ihr Audiosetup mit anderen Kommilitonen (z.B. Ihrer Gruppe) aus. Sie können dazu zum Beispiel https://test.bigbluebutton.org/ benutzen. 
+* eine IDE installiert haben und mit dem Debugger und generell dem Umgang mit der Entwicklungsumgebung vertraut sind 
+
+== Ziele der Übung
+
+In dieser Übung wollen wir den Umgang mit dem Debugger vertiefen. 
+
+== Ablauf der Übung
+
+. Schalten Sie *mindestens* das Mikrofon, aber besser auch die Kamera, ein 
+. Am Anfang gibt es eine kurze Vorstellungsrunde 
+. In der Gruppe wird kurz diskutiert, wie die Lösung angegangen werden soll und es werden noch offene Fragen geklärt
+. Es wird festgelegt, in welcher Reihenfolge die "Driver" Rolle übernommen wird
+. Die erste Person teilt Ihren Screen und übernimmt mithilfe von `mob` die Session
+. Es wird an der Problemstellung gemeinsam gearbeitet nach den Regeln des Mob Programmings 
+. Nach ca. der Hälfte der Zeit gibt es ein Feedback durch die Tutorin oder den Tutor
+. Es wird weiter an der Problemstellung gearbeitet
+. ca. 10 Minuten vor Ende der Session bekommen Sie Ihre Abschlussbewertung 
+
+== Aufgabe 
+
+Sie erhalten in der Übung von Ihrem Tutor oder ihrer Tutorin eine Auswahl von Programmen. Der Code enthält Fehler, die Sie finden und ggf. auch beseitigen sollen. 
+
+Im Ordner `00_vorbereitung` finden Sie ein Beispiel, wie eine Debug-Aufgabe aussehen könnte. Das Beispiel in `00_vorbereitung` stürzt ab, wenn Sie es laufen lassen und es funktioniert auch nicht korrekt. Verwenden Sie den Debugger ihrer IDE um die Probleme zu identifizieren und zu beheben. 
+
+== Verhaltensregeln
+
+Wir erwarten von Ihnen einen respektvollen Umgang miteinander. Es gilt grundsätzlich bei uns der https://berlincodeofconduct.org/de/[Berlin Code of Conduct]. Die TutorInnen haben die Aufgabe, die Einhaltung der Regeln zu überwachen und können bei Verstößen gegen den Verhaltenskodex Personen aus der praktischen Übung entfernen.   
